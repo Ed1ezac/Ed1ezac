@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Ed1ezac -> Edgar Isaac Kealeboga
+- 🏡 I'm from Gabane, Botswana, Southern Africa
+- 🎓 I am an Electronics Engineer (BA) who loves to code..
+- 📚 I love to read books...
+- 👀 I’m interested in Web, Android, Game dev using Unity, Machine Learning...
+- 🌱 I’m currently learning to be a better software architect...
+- 💞️ I’m looking to collaborate on Anything involving C, C++, C#, Java, Python, Assembly
+- 📫 Reach me via email:ed1ezac@gmail.com or Whatsapp +26776067957...
+
+<!---
+Ed1ezac/Ed1ezac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
