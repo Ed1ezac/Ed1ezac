@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @Ed1ezac -> Edgar Isaac Kealeboga</h1>
+<h1 align="center">Hi 👋, I am Edgar Isaac Kealeboga -> @Ed1ezac</h1>
 <h3 align="center">A passionate fullstack developer working in Gaborone, Botswana, Southern Africa</h3>
 
 - 🏡 I live in Gabane, Botswana
