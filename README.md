@@ -4,10 +4,10 @@
 - 🏡 I live in Gabane, Botswana
 - 🎓 I am an Electronics Engineer (BA)
 - 📚 I love books, football & art *(both creative and perfoming arts)*
-- 👀 I’m interested in Web, Mobile, Game dev using Unity3D & Machine Learning...
-- 🌱 I’m currently learning to be a better software architect...
+- 👀 I’m interested in Web, Mobile, Game dev using Unity3D & Machine Learning
+- 🌱 I’m currently learning to be a better software architect
 - 💞️ I’m looking to collaborate on Anything involving C, C++, C#, Java, Php, Python, Assembly
-- 📫 Reach me via email:ed1ezac@gmail.com / ekealeboga@yahoo.com or Whatsapp +26776067957...
+- 📫 Reach me via email:ed1ezac@gmail.com / ekealeboga@yahoo.com or Whatsapp +26776067957
 - ⚡ Fun fact **My voice can become very low, and very high pitched, so I could be a talented ventriloquist!**
 
 <h3 align="left">Connect with me:</h3>
