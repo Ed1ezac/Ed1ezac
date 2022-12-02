@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Ed1ezac -> Edgar Isaac Kealeboga
-- 🏡 I'm from Gabane, Botswana, Southern Africa
-- 🎓 I am an Electronics Engineer (BA) who loves to code..
+<h1 align="center">Hi 👋, I'm @Ed1ezac -> Edgar Isaac Kealeboga</h1>
+<h3 align="center">A passionate fullstack developer working in Gaborone, Botswana, Southern Africa</h3>
+
+- 🏡 I live in Gabane, Botswana
+- 🎓 I am an Electronics Engineer (BA)
 - 📚 I love to read books...
 - 👀 I’m interested in Web, Android, Game dev using Unity, Machine Learning...
 - 🌱 I’m currently learning to be a better software architect...
-- 💞️ I’m looking to collaborate on Anything involving C, C++, C#, Java, Python, Assembly
+- 💞️ I’m looking to collaborate on Anything involving C, C++, C#, Java, Php, Python, Assembly
 - 📫 Reach me via email:ed1ezac@gmail.com / ekealeboga@yahoo.com or Whatsapp +26776067957...
 - ⚡ Fun fact **My voice can become very low, and very high pitched, so I could be a talented ventriloquist!**
 
