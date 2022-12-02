@@ -10,8 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/6382534/edgar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/6382534/edgar" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/Edgarsrs" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/Edgarsrs/badges/large" alt="unity" width="160" height="80"/></a>
+<a href="https://stackoverflow.com/users/6382534/edgar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/6382534/edgar" height="30" width="40" /></a> <a href="https://www.codewars.com/users/Edgarsrs" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/Edgarsrs/badges/large" alt="unity"/></a>
 </p>
 
 <h3 align="left">Languages and Tools I've Worked with:</h3>
