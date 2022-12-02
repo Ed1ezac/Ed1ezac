@@ -3,7 +3,7 @@
 
 - 🏡 I live in Gabane, Botswana
 - 🎓 I am an Electronics Engineer (BA)
-- 📚 I love to read books, football & art *(both creative and perfoming arts)*
+- 📚 I love books, football & art *(both creative and perfoming arts)*
 - 👀 I’m interested in Web, Android, Game dev using Unity, Machine Learning...
 - 🌱 I’m currently learning to be a better software architect...
 - 💞️ I’m looking to collaborate on Anything involving C, C++, C#, Java, Php, Python, Assembly
